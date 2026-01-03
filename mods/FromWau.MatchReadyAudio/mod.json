@@ -1,0 +1,17 @@
+{
+    "Name": "Match Ready Audio",
+    "Description": "Hear match intro music when tabbed out. Temporarily enables 'Sound in Background' for 7 seconds when joining a match.",
+    "Version": "1.0.0",
+    "LoadPriority": 1,
+    "RequiredOnClient": false,
+    "Authors": ["FromWau"],
+    "Scripts": [
+        {
+            "Path": "match_ready_audio.nut",
+            "RunOn": "CLIENT",
+            "ClientCallback": {
+                "Before": "MatchReadyAudio_Init"
+            }
+        }
+    ]
+}
