@@ -2,6 +2,6 @@
     "name": "FromWau_MatchReadyAudio",
     "version_number": "1.0.0",
     "website_url": "https://github.com/FromWau/MatchReadyAudio",
-    "description": "Modifies 'Sound in Background' to only play match connection sounds, preventing AFK in lobbies while keeping game quiet when tabbed out.",
+    "description": "Hear match intro music when tabbed out. Temporarily enables 'Sound in Background' for 7 seconds when joining a match.",
     "dependencies": []
 }
