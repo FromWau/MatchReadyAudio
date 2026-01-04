@@ -1,6 +1,6 @@
 {
     "name": "FromWau_MatchReadyAudio",
-    "version_number": "1.0.0",
+    "version_number": "1.0.1",
     "website_url": "https://github.com/FromWau/MatchReadyAudio",
     "description": "Hear match intro music when tabbed out. Temporarily enables 'Sound in Background' for 7 seconds when joining a match.",
     "dependencies": []
