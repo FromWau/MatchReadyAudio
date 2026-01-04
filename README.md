@@ -14,6 +14,10 @@ Open an issue here: https://github.com/FromWau/MatchReadyAudio/issues
 
 ## Changelog
 
+### 1.0.2
+
+- Fixed manifest.json package name
+
 ### 1.0.1
 
 - Update manifest.json
