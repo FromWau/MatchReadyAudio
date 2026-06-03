@@ -1,5 +1,5 @@
 {
-    "Name": "Match Ready Audio",
+    "Name": "FromWau.MatchReadyAudio",
     "Description": "Hear match intro music when tabbed out. Temporarily enables 'Sound in Background' for 7 seconds when joining a match.",
     "Version": "1.0.2",
     "LoadPriority": 1,
